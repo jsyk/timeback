@@ -27,7 +27,8 @@ D:/Mail
 D:/Docs
 D:/Documents
 
-.. or in case of Linux system:
+Recommended to use forward slashes "/" even on Windows.
+Example in case of a Linux system:
 
 /home/user/Photos
 /home/user/Documents
